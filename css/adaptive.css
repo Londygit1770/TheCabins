@@ -1,0 +1,176 @@
+@media screen and (max-width: 1450px) {
+  .btn{
+    width: 200px;
+    height: 200px;  
+    right: calc(50% - 100px);
+    top: calc(50% - 100px); 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: #e9ece1;
+  }
+  .icon-section{
+   width: 85%;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-around;
+ }
+ .one-section{
+  display: flex;
+  align-items: center;
+  margin-top: 5vh;
+}
+.img-for-title img{
+  width: 50vw;
+}
+}
+@media screen and (max-width: 1450px) {
+    .icon-section{
+ width: 100%;
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-around;
+}
+.icon-anime{
+  width: 60%;   
+  }
+  .free-section{
+    height: 200px;
+    background-color: #5b6461;
+    color: #eaeaea;
+    font-size: 20px;
+  }
+  .title-two-setction{
+    font-size:35px;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .one-section{
+    display: block;
+    margin-top: 5vh;
+  }
+  .img-for-title img{
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+  justify-content: center;
+}
+.HH{
+  width: 80%;
+  margin: 0  auto;
+  text-align: center;
+  margin-bottom: 10px;
+}
+}
+@media screen and (max-width: 1100px) {
+.one-section{
+  display: block;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 5vh;
+}
+.Title{
+  font-size: 26px; 
+  margin-bottom: 20px;
+  }
+  .Text{
+    line-height: 25px;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 830px) {
+  .btn{
+    width: 150px;
+    height: 150px;  
+    right: calc(50% - 75px);
+    top: calc(50% - 75px); 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: #e9ece1;
+  }
+  .icon-anime{
+    width: 50%;   
+    }
+    .free-section{
+      height: 190px;
+      background-color: #5b6461;
+      color: #eaeaea;
+      font-size: 20px;
+    }
+    .title-two-setction{
+      font-size:30px;
+      text-align: center;
+    }
+}
+@media screen and (max-width: 650px) {
+  
+  .icon-anime{
+    width: 40%;   
+    }
+    .free-section{
+      height: 140px;
+      background-color: #5b6461;
+      color: #eaeaea;
+      font-size: 20px;
+    }
+    .title-two-setction{
+      font-size:25px;
+      text-align: center;
+    }
+    .icon{
+      text-align: center;
+       margin-top: 20px; 
+       font-size: 16px;
+    }
+    .Title{
+      font-size: 24px; 
+      margin-bottom: 20px;
+      }
+      .Text{
+        line-height: 25px;
+        font-size: 16px;
+      }
+}
+
+@media screen and (max-width: 500px) {
+  .btn{
+    width: 100px;
+    height:100px;  
+    right: calc(50% - 50px);
+    top: calc(50% - 50px); 
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: #e9ece1;
+
+  }
+  .icon{
+    text-align: center;
+     margin-top: 20px; 
+     font-size: 14px;
+  }
+}
+@media screen and (max-width: 460px) {
+.Title{
+  font-size: 22px; 
+  margin-bottom: 20px;
+  }
+  .Text{
+    line-height: 25px;
+    font-size: 14px;
+  }
+}
